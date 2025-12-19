@@ -1,5 +1,5 @@
 # Prota-controle-de-validade
-App mobile desenvolvido em Kotlin para controle de valide e prevenção de vencimentos e perdas.
+App mobile desenvolvido em Kotlin para controle de validade e prevenção de vencimentos e perdas.
 # Prota – Controle de Validade
 
 Aplicativo desenvolvido com o objetivo de *controlar a validade de produtos*, prevenir perdas e facilitar o trabalho de repositores em supermercados.
