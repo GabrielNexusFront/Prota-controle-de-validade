@@ -53,7 +53,7 @@ Vídeo demonstrativo do funcionamento do aplicativo:
 ## 📄 Documentação
 
 Slides explicativos sobre o funcionamento do aplicativo:  
-📄 [Ver apresentação em PDF](docs/prota-apresentacao.pdf)
+📄 [Ver apresentação em PDF](PROTA.pdf)
 
 ## 🚀 Status do Projeto
 
